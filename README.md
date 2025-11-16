@@ -1,0 +1,1 @@
+# An app to caption videos built with Next and Whisper
